@@ -1,0 +1,28 @@
+{
+  "name": "ts_api_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DavidMontoya24/ts_api_test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidMontoya24/ts_api_test/issues"
+  },
+  "homepage": "https://github.com/DavidMontoya24/ts_api_test#readme",
+  "dependencies": {
+    "@types/express": "^4.17.21",
+    "@types/node": "^20.14.2",
+    "express": "^4.19.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
